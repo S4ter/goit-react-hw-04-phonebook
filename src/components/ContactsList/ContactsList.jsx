@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './ContactsList.styles.css';
 
 export const ContactsList = ({
